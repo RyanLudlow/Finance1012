@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Finance 101</string>
+    <string name="adding">Add Another</string>
+    <string name="remove">Remove</string>
+    <string name="category">Enter Category</string>
+    <string name="money">Money</string>
+    <string name="firstHalfAmount">$0</string>
+    <string name="secondHalfAmount">00</string>
+    <string name="next">Next</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+</resources>
